@@ -93,6 +93,10 @@ Target Label:
 Whether the claim is fraudulent or not.
 38.	fraud_reported:  Y or N
 
+## Exploratory Data Analysis
+
+[EDA](EDA/EDA_fraudDetection.ipynb)
+
 # How run it?
 
 ### STEPS:
